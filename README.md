@@ -154,8 +154,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jjf2009&limit=5&theme=discord&combine_all_yearly_contributions=true)
 </details>
 <summary><h3>🐍 A Snake Eating my Contributions Graph</h3></summary>
-	
-<p align = "center">
-	<img src = "https://github.com/jjf2009/jjf2009/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+![Snake animation](https://github.com/jjf2009/jjf2009/blob/output/github-contribution-grid-snake.svg)
+ 
 
