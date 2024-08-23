@@ -61,14 +61,8 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![JJF2009's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjf2009&theme=github	)](https://github-readme-activity-graph.vercel.app)
-
  
-</details>
+
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -150,10 +144,6 @@
 </div>
 </details>
 -->
-<details><summary><h3>🔝 Top Contributed Repo</h3></summary>
-![](https://github-contributor-stats.vercel.app/api?username=jjf2009&limit=5&theme=discord&combine_all_yearly_contributions=true)
-</details>
-<summary><h3>🐍 A Snake Eating my Contributions Graph</h3></summary>
-![Snake animation](https://github.com/jjf2009/jjf2009/blob/output/github-contribution-grid-snake.svg)
+
  
 
