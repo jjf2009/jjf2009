@@ -1,33 +1,26 @@
-# Hi there, I'm Jared Furtado! 👋
+# 💫 About Me:
+🔭 I’m currently working on personal projects <br>👯 I’m looking to collaborate on freelance projects <br>🌱 I’m currently learning System Design and Machine Learning<br>⚡ Fun fact: I also love watching anime
 
-Welcome to my GitHub profile! I'm passionate about web development, DevOps, and Web3 technologies. Currently, I'm diving deep into the [Cohort 0-100](https://100xdevs.com) program by 100xDevs, which is expanding my skills in both foundational and advanced topics. 🚀
 
-## 🔭 Current Focus
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__unknown_xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-telang-226a70265?trk=people-guest_people_search-card&originalSubdomain=in) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshTelang06) 
 
-- **Cohort 0-100** by 100xDevs: Exploring JavaScript, Node.js, React, Express, and DevOps practices. 💻
-- **Web3 Development**: Recently attended a workshop by the Aptos Foundation and Spheron Network, where I published my first smart contract. 🔗
-- **Continuous Learning**: Embracing new technologies like jQuery, Sass, and Bootstrap to enhance my frontend development skills. 🎨
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/kafka-%23DD2896.svg?style=for-the-badge&logo=kafka&logoColor=white)
 
-## 🌱 What I'm Learning
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TECH-NINJA06&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TECH-NINJA06&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TECH-NINJA06&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **JavaScript & Node.js**: Diving deep into the foundation and backend development. 📚
-- **React & Next.js**: Building interactive UIs and learning state management. ⚛️
-- **DevOps**: Docker, Kubernetes, and cloud deployment strategies. 🛠️
-- **Web3**: Smart contracts, Ethereum, and Solana. 🔐
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TECH-NINJA06&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 👨‍💻 Projects I'm Working On
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TECH-NINJA06&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-- **Cohort Assignments**: Tackling assignments that challenge my coding and problem-solving skills. 📝
-- **Full-Stack Applications**: Building real-world projects with React, Node.js, and Express. 🌐
-- **Smart Contracts**: Experimenting with Solidity and deploying contracts on Ethereum. 🧑‍💻
-
-## ✨ Achievements
-
-- Completed JavaScript foundation and basic functions in the 100xDevs Cohort. 🥇
-- Published my first smart contract during a Web3 workshop. 📜
-- Completed easy and middle-level problems in Cohort 2. ✅
-- Proficient in jQuery, Sass, and Bootstrap. 🎨
-- 
+---
+[![](https://visitcount.itsvg.in/api?id=TECH-NINJA06&icon=2&color=6)](https://visitcount.itsvg.in)
 Feel free to explore my repositories, contribute, or reach out if you have any questions or ideas. Let's build something amazing together! 🚀
 
 ---
