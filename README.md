@@ -32,18 +32,12 @@ Computer Science student at [Goa College of Engineering](https://www.gec.ac.in/)
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaredfurtado&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjf2009&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaredfurtado&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjf2009&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredfurtado&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  
-*Note: Top languages reflect my public repository activity and don't necessarily indicate skill level.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjf2009&layout=compact&theme=dark&hide_border=true)
 
 </div>
+
+
