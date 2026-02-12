@@ -53,6 +53,27 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/jjf2009)
 </div>
 
+## What I'm Doing
+
+* **Building startup-focused products** – Working on tools like FounderOS and IntentOS to help founders execute faster and smarter
+* **Exploring AI-native development** – Experimenting with intent-driven systems, automation, and intelligent workflows
+* **Rapid prototyping** – Turning ideas into working products through hackathons and fast iteration
+* **Learning in public** – Continuously exploring full-stack systems, product thinking, and real-world engineering challenges
+
+### Philosophy
+
+> "Build fast, learn faster." I focus on solving real problems, validating ideas quickly, and improving through execution rather than waiting for perfection.
+
+<details>
+<summary>Random Facts</summary>
+
+* Build most projects around real startup or student problems
+* Strong interest in hackathons and rapid product execution
+* Enjoy designing systems that combine AI + product workflows
+* Prefer learning by shipping rather than consuming tutorials
+* Actively exploring entrepreneurship and early-stage startup ecosystems
+
+</details>
 
 
 
