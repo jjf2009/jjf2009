@@ -44,11 +44,6 @@ I don’t code just for the sake of programming. I want build technology to solv
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjf2009&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjf2009&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjf2009&layout=compact&theme=dark&hide_border=true)
-
 </div>
 
 
