@@ -35,7 +35,7 @@
 
 * 💡 **[TechJeeva](https://github.com/jjf2009/Techjeeva-)** – AI-powered funding discovery platform for startups and entrepreneurs
 * 🚗 **[RideBuddy](https://github.com/jjf2009/RideBuddy_Forntend)** / **[Backend](https://github.com/jjf2009/RideBuddy_Backend)** – Carpooling platform with real-time updates and authentication
-* ♻️ **[ScrapCo](https://github.com/jjf2009/ScrapCo_Frontend)** – Scrap material trading and management platform for dealers
+* ♻️ **[ScrapCo](https://github.com/jjf2009/ScrapCo_Frontend)**/ **[Backend](https://github.com/jjf2009/ScrapCo_Backend)** – Scrap material trading and management platform for dealers
 * 👁️ **[OpenCV Projects](https://github.com/jjf2009/OpenCV_Projects)** – Computer vision experiments and prototypes using Python
 * 🧿 **[Pokemon Search App](https://github.com/jjf2009/PokemonSearchApp)** – PokéAPI-powered search tool for detailed Pokémon data
 * 🍏 **[Steve Jobs Tribute](https://github.com/jjf2009/Steve_Jobs_Tribute)** – Responsive tribute site exploring the legacy of Apple’s co-founder
