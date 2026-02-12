@@ -1,18 +1,24 @@
 # Hi, I'm Jared Furtado 👋
+Unempoyled Full-stack developer.
 
-Computer Science student at [Goa College of Engineering](https://www.gec.ac.in/) with a passion for building innovative solutions and entrepreneurship.
+I don’t code just for the sake of programming. I want build technology to solve real problems, create impact, and contribute to shaping a better world.
 
 ## About Me
 
-- 🎓 Studying Computer Science and Software Engineering
-- 🚀 Aspiring entrepreneur with startup dreams
-- 🌴 Based in Goa, India
-- 💼 Open to new opportunities
-- 🌱 Constantly learning and exploring new technologies
+* 🎂 Age: 19
+* 🎓 Studying Computer Science and Software Engineering
+* 🚀 Aspiring entrepreneur with startup ambitions
+* 🌴 **Based in Goa, India 🇮🇳**
+* 💼 Open to new opportunities
+* 🌱 Continuously learning and exploring new technologies
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-furtado/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JF2009_official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jared_furtado10/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/jf2009_official)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jaredfurtadowork@gmail.com)
+
 
 ## Tech Stack
 
