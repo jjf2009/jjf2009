@@ -22,8 +22,30 @@
 🎓 Computer Engineering student exploring web, backend systems, and startup ecosystems.
 💼 Open to internships, collaborations, and real-world product opportunities.
 
+## Current Projects
 
-## My Projects
+* 🧠 **[FounderOS](https://github.com/jjf2009/FounderOS)** – Execution platform guiding early-stage founders with clear, context-aware next steps and decision paths
+* 💌 **[Encrypted Love Letters](https://github.com/jjf2009/Love-Letter-)** – Send private, encrypted digital letters with images and secure sharing
+* 🤖 **[IntentOS](https://github.com/jjf2009/IntentOS)** – AI-driven intent interface that converts natural language goals into actionable workflows
+* 🎧 **[Study Music Player](https://github.com/jjf2009/Study-Music-Player-)** – Productivity browser extension combining focus timers with background music
+* ❤️ **[CampusHearts](https://github.com/jjf2009/CampusHearts)** – Slow-dating platform for college students centered around meaningful digital letters
+* 🌐 **[Personal Website](https://github.com/jjf2009/Personalwebsite)** – Modern portfolio built with React, Vite, and TailwindCSS
+
+### Legacy Work
+
+* 💡 **[TechJeeva](https://github.com/jjf2009/Techjeeva-)** – AI-powered funding discovery platform for startups and entrepreneurs
+* 🚗 **[RideBuddy](https://github.com/jjf2009/RideBuddy_Forntend)** / **[Backend](https://github.com/jjf2009/RideBuddy_Backend)** – Carpooling platform with real-time updates and authentication
+* ♻️ **[ScrapCo](https://github.com/jjf2009/ScrapCo_Frontend)** – Scrap material trading and management platform for dealers
+* 👁️ **[OpenCV Projects](https://github.com/jjf2009/OpenCV_Projects)** – Computer vision experiments and prototypes using Python
+* 🧿 **[Pokemon Search App](https://github.com/jjf2009/PokemonSearchApp)** – PokéAPI-powered search tool for detailed Pokémon data
+* 🍏 **[Steve Jobs Tribute](https://github.com/jjf2009/Steve_Jobs_Tribute)** – Responsive tribute site exploring the legacy of Apple’s co-founder
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jared_furtado10/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/jf2009_official)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jaredfurtadowork@gmail.com)
 
 
 
