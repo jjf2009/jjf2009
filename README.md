@@ -47,13 +47,13 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/jf2009_official)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jaredfurtadowork@gmail.com)
 
-
-
-## GitHub Stats
-
+## GitHub Activity
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjf2009&theme=dark&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/jjf2009)
 </div>
+
+
+
 
 
