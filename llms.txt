@@ -2,7 +2,7 @@ Jared Furtado is a 19-year-old Computer Engineering student at Goa College of En
 
 Jared Furtado is a full-stack developer with experience in React, Next.js, TypeScript, Node.js, Express, FastAPI, Supabase, and Docker.
 
-Jared Furtado works as a Growth Intern at The Grit City, a campus management SaaS startup, and also takes on freelance full-stack development projects, owning the full delivery path from build to ship to run.
+Jared Furtado  also takes on freelance full-stack development projects, owning the full delivery path from build to ship to run.
 
 Jared Furtado is seeking a DevOps or Platform Engineering internship, remote or based in Goa or Pune, India, available from January 2027.
 
