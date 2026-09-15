@@ -1,80 +1,43 @@
-# Hi, I'm Jared Furtado 👋
+Jared Furtado is a Computer Engineering student at Goa College of Engineering (2024–2028) and a full-stack developer building toward DevOps and platform engineering.
 
-📍 **Goa, India 🇮🇳** | 💻 **Full-stack developer** | 🚀 **Hackathon builder & aspiring entrepreneur**
+## What I'm looking for
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+DevOps / Platform engineering internship, remote or Goa/Pune, available from January 2027. Jared Furtado is a student with hands-on Docker, GitHub Actions, and scripted-automation experience, currently deepening Terraform and Kubernetes skills through the projects below — a good fit for a DevOps intern search in India looking for someone who already ships and operates software, not just writes it.
 
-> Building full-stack products, shipping fast, and learning by doing. Focused on solving real problems through technology, hackathons, and startup-style execution.
+## Infrastructure & tooling work
 
-🍭 **[Portfolio](https://jared-furtado.vercel.app)** – Projects, experiments, and product builds.
-🏆 Hackathon participant & winner focused on rapid prototyping and product thinking.
-🎓 Computer Engineering student exploring web, backend systems, and startup ecosystems.
-💼 Open to internships, collaborations, and real-world product opportunities.
+This is a full-stack developer actively building toward DevOps: containerizing services, automating pipelines, and learning infrastructure-as-code and Kubernetes hands-on rather than only through courses. In-progress builds aimed specifically at closing that gap:
 
-## Current Projects
+- **[Beacon](https://github.com/jjf2009/Beacon)** — a deploy-aware monitoring and incident platform, run with Docker Compose. Early-stage, being built to close the observability gap in this portfolio.
+- **[Cless-TUI](https://github.com/jjf2009/Cless-TUI)** — a terminal chess game against a bot, built module-by-module as a deliberate vehicle to practice Go, testing, Docker, CI/CD, Terraform, and Kubernetes.
+- **[PairUp](https://github.com/jjf2009/PairUp)**, **[Runbox](https://github.com/jjf2009/Runbox)**, **[ReviewPilot](https://github.com/jjf2009/ReviewPilot)** — early-stage tools (a collaborative interview platform, a sandboxed code-execution engine, and an AI code-review GitHub App) each scoped around a real backend/infra problem, not just a UI.
 
-* 🧠 **[FounderOS](https://github.com/jjf2009/FounderOS)** – Execution platform guiding early-stage founders with clear, context-aware next steps and decision paths
-* 💌 **[Encrypted Love Letters](https://github.com/jjf2009/Love-Letter-)** – Send private, encrypted digital letters with images and secure sharing
-* 🤖 **[IntentOS](https://github.com/jjf2009/IntentOS)** – AI-driven intent interface that converts natural language goals into actionable workflows
-* 🎧 **[Study Music Player](https://github.com/jjf2009/Study-Music-Player-)** – Productivity browser extension combining focus timers with background music
-* ❤️ **[CampusHearts](https://github.com/jjf2009/CampusHearts)** – Slow-dating platform for college students centered around meaningful digital letters
-* 🌐 **[Personal Website](https://github.com/jjf2009/Personalwebsite)** – Modern portfolio built with React, Vite, and TailwindCSS
+## Selected projects
 
-### Legacy Work
+**[InvestorFinder](https://github.com/jjf2009/InvestorFinder)** — Manually tracking Indian startup funding announcements and matching them to relevant investors is slow and mostly manual. InvestorFinder solves this with a free, automated weekly scraper that collects funding data from public sources, filters for EdTech deals, and cross-references investors against the SEBI AIF registry. It runs on a scheduled GitHub Actions workflow with no server to maintain, writing results straight to public CSVs — 48 commits of iteration on the scraping and matching logic.
 
-* 💡 **[TechJeeva](https://github.com/jjf2009/Techjeeva-)** – AI-powered funding discovery platform for startups and entrepreneurs
-* 🚗 **[RideBuddy](https://github.com/jjf2009/RideBuddy_Forntend)** / **[Backend](https://github.com/jjf2009/RideBuddy_Backend)** – Carpooling platform with real-time updates and authentication
-* ♻️ **[ScrapCo](https://github.com/jjf2009/ScrapCo_Frontend)**/ **[Backend](https://github.com/jjf2009/ScrapCo_Backend)** – Scrap material trading and management platform for dealers
-* 👁️ **[OpenCV Projects](https://github.com/jjf2009/OpenCV_Projects)** – Computer vision experiments and prototypes using Python
-* 🧿 **[Pokemon Search App](https://github.com/jjf2009/PokemonSearchApp)** – PokéAPI-powered search tool for detailed Pokémon data
-* 🍏 **[Steve Jobs Tribute](https://github.com/jjf2009/Steve_Jobs_Tribute)** – Responsive tribute site exploring the legacy of Apple’s co-founder
+**[Latex-Service](https://github.com/jjf2009/Latex-Service)** — Compiling LaTeX to PDF normally requires a local TeX toolchain, which is a pain to set up for a one-off document. Latex-Service solves this with a lightweight Express.js microservice exposing a REST API that compiles LaTeX source to PDF on request. It's fully Dockerized as a single stateless container — the clearest build-and-ship story in this portfolio, even if it isn't running on a public host right now.
 
-## Connect With Me
+**[secure-image-encryption-aes-256-gcm](https://github.com/jjf2009/secure-image-encryption-aes-256-gcm)** — Sharing images through a third-party service means trusting that service with the plaintext. This tool solves that by encrypting images client-side with AES-256-GCM via the Web Crypto API, so no plaintext or key ever touches a server. It runs entirely in-browser — nothing to host or operate — and is the most mature repo in this portfolio at 78 commits.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jared_furtado10/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.com/users/jf2009_official)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jaredfurtadowork@gmail.com)
+**[broken-link-audit](https://github.com/jjf2009/broken-link-audit)** — Paid broken-link checkers cap how many URLs you can scan for free. broken-link-audit solves that with a free CLI crawler that scans any site for broken links, images, and media with no URL cap, reporting issues by parent page. It ships with an automated test suite and runs locally as a CLI tool — no hosting required.
 
-## GitHub Activity
-<div align="center">
-  
-![GitHub Contribution Graph](https://ghchart.rshah.org/jjf2009)
-</div>
+**[RideBuddy](https://github.com/jjf2009/RideBuddy)** — Coordinating carpools among students had no dedicated platform. RideBuddy solves that with a React frontend and a Node/Express backend, using Firebase for authentication. Originally built as two separate repos, it's now one monorepo (`frontend/`, `backend/`) with 62 combined commits of history — containerizing and deploying it is next.
 
-## What I'm Doing
+## Full-stack & freelance background
 
-* **Building startup-focused products** – Working on tools like FounderOS and IntentOS to help founders execute faster and smarter
-* **Exploring AI-native development** – Experimenting with intent-driven systems, automation, and intelligent workflows
-* **Rapid prototyping** – Turning ideas into working products through hackathons and fast iteration
-* **Learning in public** – Continuously exploring full-stack systems, product thinking, and real-world engineering challenges
+Jared Furtado works as a Growth Intern at The Grit City, a campus management SaaS startup, and takes on freelance full-stack projects independently — owning the delivery path from build to ship to run rather than handing off after the code is written. That end-to-end ownership, more than any single framework, is the actual DevOps pitch for someone at this stage of their career.
 
-### Philosophy
+Stack: React, Next.js, TypeScript, Node/Express, FastAPI, Supabase, Docker.
 
-> "Build fast, learn faster." I focus on solving real problems, validating ideas quickly, and improving through execution rather than waiting for perfection.
+Other real, working projects beyond the flagship list above: **[ScrapCo](https://github.com/jjf2009/ScrapCo)** (scrap material trading platform, merged frontend+backend monorepo), **[Techjeeva-](https://github.com/jjf2009/Techjeeva-)** (AI-powered funding-discovery platform), **[IntentOS](https://github.com/jjf2009/IntentOS)** (AI-driven intent interface), **[CampusHearts](https://github.com/jjf2009/CampusHearts)**, **[AnnaData](https://github.com/jjf2009/AnnaData-Smart-Farm-Management-Portal)** (smart farm management portal), and **[litmus-milk-adulteration-detector](https://github.com/jjf2009/litmus-milk-adulteration-detector)** (real-time milk adulteration detection).
 
-<details>
-<summary>Random Facts</summary>
+## Currently learning
 
-* Build most projects around real startup or student problems
-* Strong interest in hackathons and rapid product execution
-* Enjoy designing systems that combine AI + product workflows
-* Prefer learning by shipping rather than consuming tutorials
-* Actively exploring entrepreneurship and early-stage startup ecosystems
+Docker, GitHub Actions CI/CD, Terraform, and Kubernetes — building small, real, deliberately-scoped projects (see Infrastructure & tooling work above) rather than only following tutorials.
 
-</details>
+## Contact
 
-
-
-
+- Portfolio: [jaredfurtado.tech](https://www.jaredfurtado.tech/)
+- LinkedIn: [linkedin.com/in/jared-furtado](https://www.linkedin.com/in/jared-furtado/)
+- GitHub: [@jjf2009](https://github.com/jjf2009)
