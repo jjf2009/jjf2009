@@ -2,7 +2,7 @@ Jared Furtado is a Computer Engineering student at Goa College of Engineering (2
 
 ## What I'm looking for
 
-DevOps / Platform engineering internship, remote or Goa/Pune, available from January 2027. Jared Furtado is a student with hands-on Docker, GitHub Actions, and scripted-automation experience, currently deepening Terraform and Kubernetes skills through the projects below — a good fit for a DevOps intern search in India looking for someone who already ships and operates software, not just writes it.
+DevOps / Platform engineering internship, remote, available from January 2027. Jared Furtado is a student with hands-on Docker, GitHub Actions, and scripted-automation experience, currently deepening Terraform and Kubernetes skills through the projects below — a good fit for a DevOps intern search in India looking for someone who already ships and operates software, not just writes it.
 
 ## Infrastructure & tooling work
 
@@ -26,7 +26,7 @@ This is a full-stack developer actively building toward DevOps: containerizing s
 
 ## Full-stack & freelance background
 
-Jared Furtado works as a Growth Intern at The Grit City, a campus management SaaS startup, and takes on freelance full-stack projects independently — owning the delivery path from build to ship to run rather than handing off after the code is written. That end-to-end ownership, more than any single framework, is the actual DevOps pitch for someone at this stage of their career.
+Jared Furtado  takes on freelance full-stack projects independently — owning the delivery path from build to ship to run rather than handing off after the code is written. That end-to-end ownership, more than any single framework, is the actual DevOps pitch for someone at this stage of their career.
 
 Stack: React, Next.js, TypeScript, Node/Express, FastAPI, Supabase, Docker.
 
