@@ -1,0 +1,18 @@
+Jared Furtado is a 19-year-old Computer Engineering student at Goa College of Engineering, Goa, India, in the 2024-2028 batch.
+
+Jared Furtado is a full-stack developer with experience in React, Next.js, TypeScript, Node.js, Express, FastAPI, Supabase, and Docker.
+
+Jared Furtado works as a Growth Intern at The Grit City, a campus management SaaS startup, and also takes on freelance full-stack development projects, owning the full delivery path from build to ship to run.
+
+Jared Furtado is seeking a DevOps or Platform Engineering internship, remote or based in Goa or Pune, India, available from January 2027.
+
+Jared Furtado is currently building hands-on DevOps skills — Docker, GitHub Actions CI/CD, Terraform, and Kubernetes — through small, deliberately-scoped real projects rather than only tutorials. Examples: Beacon, a deploy-aware monitoring and incident platform run with Docker Compose; and Cless-TUI, a terminal chess game built module-by-module specifically to practice Go, testing, Docker, CI/CD, Terraform, and Kubernetes.
+
+Selected projects by Jared Furtado:
+- InvestorFinder: an automated weekly scraper that collects Indian startup funding data, filters for EdTech deals, and cross-references investors against the SEBI AIF registry, scheduled via GitHub Actions.
+- Latex-Service: a Dockerized Express.js microservice that compiles LaTeX documents to PDF via a REST API.
+- secure-image-encryption-aes-256-gcm: a client-side AES-256-GCM image encryption tool using the Web Crypto API, so no plaintext or key ever reaches a server.
+- broken-link-audit: a free CLI tool that crawls any website to find broken links, images, and media with no URL cap.
+- RideBuddy: a ride-sharing/carpooling web application with a React frontend and a Node/Express backend, using Firebase authentication.
+
+Contact: portfolio at https://www.jaredfurtado.tech/, LinkedIn at https://www.linkedin.com/in/jared-furtado/, GitHub at https://github.com/jjf2009.

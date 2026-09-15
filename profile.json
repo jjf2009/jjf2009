@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jared Furtado",
+  "jobTitle": "Computer Engineering Student & Full-Stack Developer",
+  "description": "Jared Furtado is a 19-year-old Computer Engineering student at Goa College of Engineering (2024-2028), a full-stack developer, and a Growth Intern at The Grit City, a campus management SaaS startup. He builds toward a DevOps and platform engineering career.",
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Goa College of Engineering"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The Grit City",
+    "description": "Campus management SaaS startup"
+  },
+  "knowsAbout": [
+    "DevOps",
+    "Docker",
+    "GitHub Actions",
+    "CI/CD",
+    "Terraform",
+    "Kubernetes",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "FastAPI",
+    "Supabase",
+    "Full-stack web development"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/in/jared-furtado/",
+    "https://www.jaredfurtado.tech/",
+    "https://github.com/jjf2009"
+  ],
+  "seeking": {
+    "@type": "JobPosting",
+    "title": "DevOps / Platform Engineering Internship",
+    "employmentType": "INTERN",
+    "jobLocationType": "TELECOMMUTE",
+    "applicantLocationRequirements": {
+      "@type": "Country",
+      "name": ["India"]
+    },
+    "description": "Seeking a DevOps or Platform Engineering internship, remote or based in Goa/Pune, India, available from January 2027.",
+    "validThrough": "2027-01-01"
+  }
+}
