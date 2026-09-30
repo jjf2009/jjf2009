@@ -24,13 +24,21 @@ This is a full-stack developer actively building toward DevOps: containerizing s
 
 **[RideBuddy](https://github.com/jjf2009/RideBuddy)** — Coordinating carpools among students had no dedicated platform. RideBuddy solves that with a React frontend and a Node/Express backend, using Firebase for authentication. Originally built as two separate repos, it's now one monorepo (`frontend/`, `backend/`) with 62 combined commits of history — containerizing and deploying it is next.
 
-## Full-stack & freelance background
+## Experience & leadership
 
-Jared Furtado  takes on freelance full-stack projects independently — owning the delivery path from build to ship to run rather than handing off after the code is written. That end-to-end ownership, more than any single framework, is the actual DevOps pitch for someone at this stage of their career.
+- **Vice President, GEC Coders Club** (Aug 2026 – present) — promoted from Event Coordinator (Jul 2025 – Aug 2026), where I ran technical workshops and coding competitions and mentored juniors.
+- **Freelance full-stack developer** (Dec 2025 – Aug 2026) — delivered two client projects independently, owning the path from build to ship to run: the [Global Tourist Centre](https://globaltouristcentre.com/) website (moved to Next.js with German, French, Russian and Italian versions) and [Techjeeva](https://github.com/jjf2009/Techjeeva-) for FIIRE Forum. That end-to-end ownership, more than any single framework, is the actual DevOps pitch for someone at this stage of their career.
+- **Sales Intern, Avyott** (Dec 2025 – Jan 2026) — B2B outreach for a text AI agent product.
+
+## Stack & other projects
 
 Stack: React, Next.js, TypeScript, Node/Express, FastAPI, Supabase, Docker.
 
-Other real, working projects beyond the flagship list above: **[ScrapCo](https://github.com/jjf2009/ScrapCo)** (scrap material trading platform, merged frontend+backend monorepo), **[Techjeeva-](https://github.com/jjf2009/Techjeeva-)** (AI-powered funding-discovery platform), **[IntentOS](https://github.com/jjf2009/IntentOS)** (AI-driven intent interface), **[CampusHearts](https://github.com/jjf2009/CampusHearts)**, **[AnnaData](https://github.com/jjf2009/AnnaData-Smart-Farm-Management-Portal)** (smart farm management portal), and **[litmus-milk-adulteration-detector](https://github.com/jjf2009/litmus-milk-adulteration-detector)** (real-time milk adulteration detection).
+Other real, working projects beyond the flagship list above: **[ScrapCo](https://github.com/jjf2009/ScrapCo)** (scrap material trading platform, merged frontend+backend monorepo), **[IntentOS](https://github.com/jjf2009/IntentOS)** (AI-driven intent interface), **[CampusHearts](https://github.com/jjf2009/CampusHearts)**, **[AnnaData](https://github.com/jjf2009/AnnaData-Smart-Farm-Management-Portal)** (smart farm management portal), and **[litmus-milk-adulteration-detector](https://github.com/jjf2009/litmus-milk-adulteration-detector)** (real-time milk adulteration detection).
+
+## Hackathons
+
+Eight hackathons across Goa since 2024, most recently with my team **Qbits** at the **Orix Hackathon 2026** (hosted by McLaren Strategic Solutions), where the team received trophies and certificates of achievement. Others: Build with AI Hackathon 2026 (AgriTech, GDG Goa), PCCE Hackathon 2026, Goa University Hackathon 2025, Goa Police Hackathon 2025, AIEM Hackathon 2024, InternSpirit Hackathon 2024 and NIT Goa Hackathon 2024.
 
 ## Currently learning
 

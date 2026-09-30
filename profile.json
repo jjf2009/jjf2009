@@ -41,9 +41,17 @@
     "jobLocationType": "TELECOMMUTE",
     "applicantLocationRequirements": {
       "@type": "Country",
-      "name": ["India"]
+      "name": [
+        "India"
+      ]
     },
     "description": "Seeking a DevOps or Platform Engineering internship, remote or based in Goa/Pune, India, available from January 2027.",
     "validThrough": "2027-01-01"
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "GEC Coders Club",
+    "roleName": "Vice President",
+    "startDate": "2026-08"
   }
 }
