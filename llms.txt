@@ -2,7 +2,11 @@ Jared Furtado is a 19-year-old Computer Engineering student at Goa College of En
 
 Jared Furtado is a full-stack developer with experience in React, Next.js, TypeScript, Node.js, Express, FastAPI, Supabase, and Docker.
 
-Jared Furtado  also takes on freelance full-stack development projects, owning the full delivery path from build to ship to run.
+Jared Furtado is Vice President of GEC Coders Club at Goa College of Engineering (since August 2026), promoted from Event Coordinator (July 2025 – August 2026).
+
+Jared Furtado worked as a freelance full-stack developer from December 2025 to August 2026, delivering two client projects end to end: the Global Tourist Centre website and Techjeeva for FIIRE Forum.
+
+Jared Furtado has taken part in eight hackathons in Goa, including the Orix Hackathon 2026 (hosted by McLaren Strategic Solutions) with his team Qbits, where the team received trophies and certificates of achievement.
 
 Jared Furtado is seeking a DevOps or Platform Engineering internship, remote or based in Goa or Pune, India, available from January 2027.
 
