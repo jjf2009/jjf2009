@@ -8,8 +8,6 @@ Jared Furtado worked as a freelance full-stack developer from December 2025 to A
 
 Jared Furtado has taken part in eight hackathons in Goa, including the Orix Hackathon 2026 (hosted by McLaren Strategic Solutions) with his team Qbits, where the team received trophies and certificates of achievement.
 
-Jared Furtado is seeking a DevOps or Platform Engineering internship, remote or based in Goa or Pune, India, available from January 2027.
-
 Jared Furtado is currently building hands-on DevOps skills — Docker, GitHub Actions CI/CD, Terraform, and Kubernetes — through small, deliberately-scoped real projects rather than only tutorials. Examples: Beacon, a deploy-aware monitoring and incident platform run with Docker Compose; and Cless-TUI, a terminal chess game built module-by-module specifically to practice Go, testing, Docker, CI/CD, Terraform, and Kubernetes.
 
 Selected projects by Jared Furtado:
